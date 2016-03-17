@@ -1,0 +1,38 @@
+body{
+    color:#fff;
+    background-color: #000;
+}
+.wrapper{
+    width:980px;
+    margin:0 auto;
+}
+
+header{
+    background-color: #1a1a1a;
+    height: 100px;
+}
+header img{
+    float:left;
+    padding: 0 10px 10px 10px;
+}
+header h1{
+    color:#fff;
+    padding-top:50px;
+}
+
+#dashboard-main{
+    background-color: #4d4d4d;
+    min-height: 500px;
+}
+
+#dashboard-side{
+    background-color: #4d4d4d;
+    min-height: 500px;
+}
+input[type=text], input[type=password]{
+    background-color: #999;
+}
+#login{
+    border-right: 1px solid white;
+    min-height: 350px;
+}
